@@ -5,3 +5,4 @@
 	Configuration of Point to Site and Site to Site connectivity for connectivity between On-Prem and Azure Infrastructure 
 	Configuration of Azure Site Recovery and Backup for disaster recovery purposes 
 	Decommissioning on-premises servers after successful deployment of each application
+CIDR block is 10.0.0.0/24
