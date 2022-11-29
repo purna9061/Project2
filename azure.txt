@@ -1,9 +1,3 @@
-srinivaskoppisetti4604@gmail.com
-Srinu@111
-
-ZOOM : 3102436669
-
-
 	Creating azure instances, setting up virtual networks, configuring network security groups and storage blobs. 
 	Configuration of Storage Accounts and their management 
 	Capturing organizational standard VHD’s and deploying new instances using these custom images 
