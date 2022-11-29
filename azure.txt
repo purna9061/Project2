@@ -1,0 +1,13 @@
+srinivaskoppisetti4604@gmail.com
+Srinu@111
+
+ZOOM : 3102436669
+
+
+	Creating azure instances, setting up virtual networks, configuring network security groups and storage blobs. 
+	Configuration of Storage Accounts and their management 
+	Capturing organizational standard VHD’s and deploying new instances using these custom images 
+	Configuration of Load balancers 
+	Configuration of Point to Site and Site to Site connectivity for connectivity between On-Prem and Azure Infrastructure 
+	Configuration of Azure Site Recovery and Backup for disaster recovery purposes 
+	Decommissioning on-premises servers after successful deployment of each application
